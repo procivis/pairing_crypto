@@ -7,7 +7,7 @@ repository = "https://github.com/mattrglobal/pairing_crypto"
 keywords = ["bbs-signatures", "cryptography"]
 categories = ["cryptography"]
 edition = "2021"
-license = "Apache-2"
+license = "Apache-2.0"
 readme = "README.md"
 
 [features]
